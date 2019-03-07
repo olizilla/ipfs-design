@@ -1,6 +1,26 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![IPFS Design - a shared palette for coherent interfaces](screenshot.png)
 
-## Available Scripts
+We use [tachyons] & [ipfs-css] to enable distributed creativity. By agreeing on
+shared palette of colors, fonts, and scales, we can support independent groups
+to experiment with new UI ideas which feel consistent, without requiring co-ordination.
+
+Projects using this:
+
+- [ipfs-webui](https://github.com/ipfs-shipyard/ipfs-webui)
+- [ipfs-companion](https://github.com/ipfs-shipyard/ipfs-companion)
+- [ipfs-desktop](https://github.com/ipfs-shipyard/ipfs-desktop)
+- [ipld-explorer](https://explore.ipld.io)
+- [proto.school](https://proto.school)
+- [ipld.io](https://ipld.io)
+- [CID inspector](https://cid.ipfs.io)
+- [Filecoin Replication game leaderboard](https://github.com/filecoin-project/replication-game-leaderboard/)
+- [Filecoin block explorer](https://github.com/filecoin-project/filecoin-explorer)
+
+and this one.
+
+## Usage
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 In the project directory, you can run:
 
@@ -27,42 +47,5 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+[tachyons]: http://tachyons.io/
+[ipfs-css]: https://github.com/ipfs-shipyard/ipfs-css

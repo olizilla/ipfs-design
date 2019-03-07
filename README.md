@@ -1,4 +1,4 @@
-![IPFS Design - a shared palette for coherent interfaces](screenshot.png)
+[![IPFS Design - a shared palette for coherent interfaces](screenshot.png)](https://ipfs.io/ipfs/QmcSKzW6SSS2ygfbXHJHtNnDtJd4pHvVHDQUwhiM5FuWkX/)
 
 We use [tachyons] & [ipfs-css] to enable distributed creativity. By agreeing on
 shared palette of colors, fonts, and scales, we can support independent groups
